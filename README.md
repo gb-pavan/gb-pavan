@@ -141,12 +141,22 @@ Architected and implemented a production-grade EdTech system using a scalable an
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gb-pavan&show_icons=true&theme=tokyonight&bg_color=0f0c29&border_color=7C6EF7&title_color=7C6EF7&icon_color=7C6EF7&text_color=ffffff&hide_border=false" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gb-pavan&layout=compact&theme=tokyonight&bg_color=0f0c29&border_color=7C6EF7&title_color=7C6EF7&text_color=ffffff&hide_border=false" height="180"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=gb-pavan&show_icons=true&theme=tokyonight&bg_color=0f0c29&border_color=7C6EF7&title_color=7C6EF7&icon_color=7C6EF7&text_color=ffffff"
+    height="180"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gb-pavan&layout=compact&theme=tokyonight&bg_color=0f0c29&border_color=7C6EF7&title_color=7C6EF7&text_color=ffffff"
+    height="180"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gb-pavan&theme=tokyonight&background=0f0c29&border=7C6EF7&stroke=7C6EF7&ring=7C6EF7&fire=FF6B6B&currStreakLabel=7C6EF7&sideLabels=7C6EF7&dates=ffffff&sideNums=ffffff&currStreakNum=ffffff" height="180"/>
+  <img
+    src="https://streak-stats.demolab.com?user=gb-pavan&theme=tokyonight&background=0f0c29&border=7C6EF7&ring=7C6EF7&fire=FF6B6B&currStreakLabel=7C6EF7&sideLabels=7C6EF7&dates=ffffff&sideNums=ffffff&currStreakNum=ffffff"
+    height="180"
+  />
 </p>
 
 ---
