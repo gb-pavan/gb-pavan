@@ -163,6 +163,12 @@ Architected and implemented a production-grade EdTech system using a scalable an
     height="180"
   />
 </p>
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=gb-pavan&theme=tokyo-night&bg_color=0f0c29&color=7C6EF7&line=7C6EF7&point=FFFFFF&hide_border=true"
+    width="100%"
+  />
+</p>
 
 ---
 
