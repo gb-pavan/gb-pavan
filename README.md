@@ -148,21 +148,9 @@ Architected and implemented a production-grade EdTech system using a scalable an
         height="180"
       />
     </td>
-    <td>
-      <img
-        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gb-pavan&layout=compact&theme=tokyonight&bg_color=0f0c29&border_color=7C6EF7&title_color=7C6EF7&text_color=ffffff&langs_count=8"
-        height="180"
-      />
-    </td>
   </tr>
 </table>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=gb-pavan&theme=tokyonight&background=0f0c29&border=7C6EF7&ring=7C6EF7&fire=FF6B6B&currStreakLabel=7C6EF7&sideLabels=7C6EF7&dates=ffffff&sideNums=ffffff&currStreakNum=ffffff"
-    height="180"
-  />
-</p>
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=gb-pavan&theme=tokyo-night&bg_color=0f0c29&color=7C6EF7&line=7C6EF7&point=FFFFFF&hide_border=true"
