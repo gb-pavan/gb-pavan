@@ -142,12 +142,12 @@ Architected and implemented a production-grade EdTech system using a scalable an
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=gb-pavan&show_icons=true&theme=tokyonight&bg_color=0f0c29&border_color=7C6EF7&title_color=7C6EF7&icon_color=7C6EF7&text_color=ffffff"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=gb-pavan&show_icons=true&theme=tokyonight&bg_color=0f0c29&border_color=7C6EF7&title_color=7C6EF7&icon_color=7C6EF7&text_color=ffffff"
     height="180"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gb-pavan&layout=compact&theme=tokyonight&bg_color=0f0c29&border_color=7C6EF7&title_color=7C6EF7&text_color=ffffff"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gb-pavan&layout=compact&theme=tokyonight&bg_color=0f0c29&border_color=7C6EF7&title_color=7C6EF7&text_color=ffffff"
     height="180"
   />
 </p>
