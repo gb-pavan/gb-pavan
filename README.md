@@ -169,6 +169,36 @@ Architected and implemented a production-grade EdTech system using a scalable an
     width="100%"
   />
 </p>
+<table align="center">
+  <tr>
+    <td valign="top">
+      <img
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=gb-pavan&show_icons=true&theme=tokyonight&bg_color=0f0c29&border_color=7C6EF7&title_color=7C6EF7&icon_color=7C6EF7&text_color=ffffff"
+        height="180"
+      />
+    </td>
+    <td valign="top">
+
+### 💻 Tech Skills
+
+```text
+🐍 Python         ███████░░░ 70%
+🟨 JavaScript     ██████████ 98%
+🔷 TypeScript     ██████████ 98%
+🟧 HTML           █████████▌ 95%
+🟦 CSS            █████████▌ 95%
+```
+
+</td>
+  </tr>
+</table>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=gb-pavan&theme=tokyonight&background=0f0c29&border=7C6EF7&ring=7C6EF7&fire=FF6B6B&currStreakLabel=7C6EF7&sideLabels=7C6EF7&dates=ffffff&sideNums=ffffff&currStreakNum=ffffff"
+    height="180"
+  />
+</p>
 
 ---
 
